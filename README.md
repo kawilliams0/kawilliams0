@@ -17,24 +17,32 @@
 
 
 <img width="800" height="700" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
+<img width="708" height="708" alt="feem_6252ef7ad750a_IMG_20250928_213012" src="https://github.com/user-attachments/assets/db0a33f1-4b87-4707-b7a3-7c0b9b45d6e4" />
 
+<img width="720" height="732" alt="feem_6252ef7ad750a_IMG_20250928_213031" src="https://github.com/user-attachments/assets/bbc45a05-4107-470f-bcd3-1003d66550c7" />
 
 
 Connect Me Through!
+<img width="724" height="740" alt="feem_6252ef7ad750a_IMG_20250928_212948" src="https://github.com/user-attachments/assets/bcf26fb4-6683-418b-8395-930230e739ee" />
 
 <p align="center">
 <!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/williams-ka-639b5b1b1/" target="_blank">
-<img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KTDeih7pDy1eShM_DHh-Wzj8mpUrpVFvRPsWt_3m46oHbHphfdoOx9h9DHnFDI077jVjgCJ7tb5gVhmzDQmQicOoUJdRF4he_QlbbpcvE9ZhZKdO33P4oJZbvw1vR5ws3FmJvZHFYyUjnjm7OhU94vuKmXUlb8gUYQH_ACxlIyTIDHzAg=s1024" alt="LinkedIn Profile" width="60" height="60"/>
+
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- YouTube Icon -->
 <a href="https://www.youtube.com/channel/UC4BA15O7d1WZ2zshTsWDptQ" target="_blank">
-<img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KS10qJBphyuoY3uY5wciQm4y1s30xi1XTn4VPhQQC4B_8g-6mCfC4BVPtMT0TiVUL-1s1VR37gghMhsHqQwO2EFa2pu9pOsXT0jZaXlmwnHF8ED-dINzuKeZW-Wjuc2MFI6Xg0MYdeCO0IGOxwqXzAV92YUCic0kVelctT3UQiGbALKjA=s1024" alt="YouTube Channel" width="60" height="60"/>
+
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Email Icon -->
 <a href="mailto:kawilliamska@gmail.com">
-<img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KRT5FnS_oPa-oPcqD1yfKEq0kphAdhN8ajhSekHBKGQd_kw7KKH4rY9EsBSFnGFMs7vXi2_iyF2e2yYE5lSojiopCxREbQey3oJpyo_LKRZu5ZsO4mETZ-rbd84CBfrsdPIpyMv-nVg5Uk_mUcbRjXw6oIVSa1f5QdBoiC7FL7qbxIDew=s1024" alt="Email Contact" width="60" height="60"/>
+<img width="800" height="700" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
+<img width="708" height="708" alt="feem_6252ef7ad750a_IMG_20250928_213012" src="https://github.com/user-attachments/assets/db0a33f1-4b87-4707-b7a3-7c0b9b45d6e4" />
+
+<img width="720" height="732" alt="feem_6252ef7ad750a_IMG_20250928_213031" src="https://github.com/user-attachments/assets/bbc45a05-4107-470f-bcd3-1003d66550c7" />
+
+
 </a>
 </p>
