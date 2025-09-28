@@ -8,6 +8,10 @@ Secure it against the unknown 🔒
 
 > status  
 [ ACTIVE ] 🚀
+>
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 28, 2025, 09_01_28 PM" src="https://github.com/user-attachments/assets/ad2d5ff7-1d47-4633-af35-9660b9c1d81f" />
+
 
 Skills----->
 
@@ -17,5 +21,7 @@ Skills----->
 ![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=database&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 
 
