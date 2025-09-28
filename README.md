@@ -10,7 +10,7 @@
 
 🤖 AI Explorer → Training machines to learn, adapt, and amplify human potential.
 
-<  The tree shows the skills I'm growing >
+<  <h1>  The tree shows the skills I'm growing </h1> >
 <br>
 
 <img width="900" height="700" alt="skill" src="https://github.com/user-attachments/assets/373d317c-376e-4e65-8418-aee3ba55a985" />
