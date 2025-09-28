@@ -25,7 +25,7 @@ Connect Me Through!
 <p align="center">
 <!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/williams-ka-639b5b1b1/" target="_blank">
-<img src="LINKEDIN_IMAGE_URL_HERE" alt="LinkedIn Profile" width="60" height="60"/>
+<img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KTDeih7pDy1eShM_DHh-Wzj8mpUrpVFvRPsWt_3m46oHbHphfdoOx9h9DHnFDI077jVjgCJ7tb5gVhmzDQmQicOoUJdRF4he_QlbbpcvE9ZhZKdO33P4oJZbvw1vR5ws3FmJvZHFYyUjnjm7OhU94vuKmXUlb8gUYQH_ACxlIyTIDHzAg=s1024" alt="LinkedIn Profile" width="60" height="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- YouTube Icon -->
