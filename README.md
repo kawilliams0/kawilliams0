@@ -20,4 +20,4 @@
 
 
 
-<img width="600" height="400" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
+<img width="800" height="700" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
