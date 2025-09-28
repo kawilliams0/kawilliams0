@@ -20,5 +20,6 @@
 
 
 👉<h1>Projects  --></h1>
+                    <p> Check out my Linkdln  profile for my project demo videos </p>
 
-          Check out my Linkdln  profile for my project demo videos
+
