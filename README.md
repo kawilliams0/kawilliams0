@@ -13,7 +13,7 @@
 <  The tree shows the skills I'm growing >
 <br>
 
-<img width="1024" height="1024" alt="skill" src="https://github.com/user-attachments/assets/373d317c-376e-4e65-8418-aee3ba55a985" />
+<img width="900" height="700" alt="skill" src="https://github.com/user-attachments/assets/373d317c-376e-4e65-8418-aee3ba55a985" />
 
 
 
