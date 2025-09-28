@@ -13,8 +13,11 @@
 <img width="1700" height="500" alt="ChatGPT Image Sep 28, 2025, 09_01_28 PM" src="https://github.com/user-attachments/assets/ad2d5ff7-1d47-4633-af35-9660b9c1d81f"/>
 
 
-Skills----->
+<  The tree shows the skills I'm growing >
 
 
 
 
+
+
+<img width="600" height="400" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
