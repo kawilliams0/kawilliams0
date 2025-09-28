@@ -14,21 +14,20 @@
 
 
 <  The tree shows the skills I'm growing >
+<br>
 
+<img width="724" height="740" alt="feem_6252ef7ad750a_IMG_20250928_212948" src="https://github.com/user-attachments/assets/bcf26fb4-6683-418b-8395-930230e739ee" />
 
-<img width="800" height="700" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
-<img width="708" height="708" alt="feem_6252ef7ad750a_IMG_20250928_213012" src="https://github.com/user-attachments/assets/db0a33f1-4b87-4707-b7a3-7c0b9b45d6e4" />
-
-<img width="720" height="732" alt="feem_6252ef7ad750a_IMG_20250928_213031" src="https://github.com/user-attachments/assets/bbc45a05-4107-470f-bcd3-1003d66550c7" />
 
 
 Connect Me Through!
-<img width="724" height="740" alt="feem_6252ef7ad750a_IMG_20250928_212948" src="https://github.com/user-attachments/assets/bcf26fb4-6683-418b-8395-930230e739ee" />
+<br>
+
 
 <p align="center">
 <!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/williams-ka-639b5b1b1/" target="_blank">
-
+<img width="100" height="100" alt="feem_6252ef7ad750a_IMG_20250928_213012" src="c" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- YouTube Icon -->
@@ -38,10 +37,7 @@ Connect Me Through!
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Email Icon -->
 <a href="mailto:kawilliamska@gmail.com">
-<img width="800" height="700" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
-<img width="708" height="708" alt="feem_6252ef7ad750a_IMG_20250928_213012" src="https://github.com/user-attachments/assets/db0a33f1-4b87-4707-b7a3-7c0b9b45d6e4" />
-
-<img width="720" height="732" alt="feem_6252ef7ad750a_IMG_20250928_213031" src="https://github.com/user-attachments/assets/bbc45a05-4107-470f-bcd3-1003d66550c7" />
+<img width="100" height="100" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
 
 
 </a>
