@@ -1,4 +1,4 @@
-👋 Hi there, I'm Williams K A 
+<img width="1536" height="1024" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/a728260e-b0a8-45cc-b928-08464cc1f2e9" />👋 Hi there, I'm Williams K A 
 
 🌐 I live in four parallel windows of creation.
 
@@ -10,13 +10,16 @@
 
 🤖 AI Explorer → Training machines to learn, adapt, and amplify human potential.
 
-<img width="1700" height="500" alt="ChatGPT Image Sep 28, 2025, 09_01_28 PM" src="https://drive.google.com/file/d/1jVYuaCr7mChHn7Yay_IE5XdNSvanrQAz/view?usp=sharing"/>
+<img width="1536" height="1024" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/b03e00cf-7649-4fd6-ad05-8c5568c6f661" />
+
+
 
 
 <  The tree shows the skills I'm growing >
 <br>
 
-<img width="724" height="740" alt="feem_6252ef7ad750a_IMG_20250928_212948" src="https://github.com/user-attachments/assets/bcf26fb4-6683-418b-8395-930230e739ee" />
+<img width="1024" height="1024" alt="skill" src="https://github.com/user-attachments/assets/373d317c-376e-4e65-8418-aee3ba55a985" />
+
 
 
 
