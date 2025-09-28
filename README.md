@@ -14,7 +14,11 @@
 
 
 <  The tree shows the skills I'm growing >
+
+
 <img width="800" height="700" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
+
+
 
 Connect Me Through!
 
@@ -25,8 +29,8 @@ Connect Me Through!
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- YouTube Icon -->
-<a href="YOUR_YOUTUBE_CHANNEL_URL" target="_blank">
-<img src="YOUTUBE_IMAGE_URL_HERE" alt="YouTube Channel" width="60" height="60"/>
+<a href="https://www.youtube.com/channel/UC4BA15O7d1WZ2zshTsWDptQ" target="_blank">
+<img src="" alt="YouTube Channel" width="60" height="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Email Icon -->
