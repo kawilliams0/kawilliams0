@@ -10,7 +10,7 @@
 
 🤖 AI Explorer → Training machines to learn, adapt, and amplify human potential.
 
-<img width="1700" height="500" alt="ChatGPT Image Sep 28, 2025, 09_01_28 PM" src="https://github.com/user-attachments/assets/ad2d5ff7-1d47-4633-af35-9660b9c1d81f"/>
+<img width="1700" height="500" alt="ChatGPT Image Sep 28, 2025, 09_01_28 PM" src="https://drive.google.com/file/d/1jVYuaCr7mChHn7Yay_IE5XdNSvanrQAz/view?usp=sharing"/>
 
 
 <  The tree shows the skills I'm growing >
