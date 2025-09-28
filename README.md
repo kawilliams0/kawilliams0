@@ -20,25 +20,5 @@
 
 
 
-Connect Me Through!
-<br>
-
-
-<p align="center">
-<!-- LinkedIn Icon -->
-<a href="https://www.linkedin.com/in/williams-ka-639b5b1b1/" target="_blank">
-<img width="100" height="100" alt="feem_6252ef7ad750a_IMG_20250928_213012" src="c" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- YouTube Icon -->
-<a href="https://www.youtube.com/channel/UC4BA15O7d1WZ2zshTsWDptQ" target="_blank">
-
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- Email Icon -->
-<a href="mailto:kawilliamska@gmail.com">
-<img width="100" height="100" alt="skill" src="https://github.com/user-attachments/assets/2ed2565f-2ea8-4742-b577-4b034e875aba" />
-
-
-</a>
-</p>
+Projects  -->
+          Check out my Linkdln  profile for my projects
