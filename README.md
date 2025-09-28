@@ -21,4 +21,4 @@
 
 
 Projects  -->
-          Check out my Linkdln  profile for my projects
+          Check out my Linkdln  profile for my project demo videos
