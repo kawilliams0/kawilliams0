@@ -30,11 +30,11 @@ Connect Me Through!
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- YouTube Icon -->
 <a href="https://www.youtube.com/channel/UC4BA15O7d1WZ2zshTsWDptQ" target="_blank">
-<img src="" alt="YouTube Channel" width="60" height="60"/>
+<img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KS10qJBphyuoY3uY5wciQm4y1s30xi1XTn4VPhQQC4B_8g-6mCfC4BVPtMT0TiVUL-1s1VR37gghMhsHqQwO2EFa2pu9pOsXT0jZaXlmwnHF8ED-dINzuKeZW-Wjuc2MFI6Xg0MYdeCO0IGOxwqXzAV92YUCic0kVelctT3UQiGbALKjA=s1024" alt="YouTube Channel" width="60" height="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Email Icon -->
 <a href="mailto:kawilliamska@gmail.com">
-<img src="EMAIL_IMAGE_URL_HERE" alt="Email Contact" width="60" height="60"/>
+<img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KRT5FnS_oPa-oPcqD1yfKEq0kphAdhN8ajhSekHBKGQd_kw7KKH4rY9EsBSFnGFMs7vXi2_iyF2e2yYE5lSojiopCxREbQey3oJpyo_LKRZu5ZsO4mETZ-rbd84CBfrsdPIpyMv-nVg5Uk_mUcbRjXw6oIVSa1f5QdBoiC7FL7qbxIDew=s1024" alt="Email Contact" width="60" height="60"/>
 </a>
 </p>
