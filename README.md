@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/a728260e-b0a8-45cc-b928-08464cc1f2e9" />👋 Hi there, I'm Williams K A 
+<img width="2000" height="700" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/a728260e-b0a8-45cc-b928-08464cc1f2e9" />👋 Hi there, I'm Williams K A 
 
 🌐 I live in four parallel windows of creation.
 
@@ -9,11 +9,6 @@
 🕶️ Hacker → Thinking like the enemy, securing every crack before it becomes a threat.
 
 🤖 AI Explorer → Training machines to learn, adapt, and amplify human potential.
-
-<img width="1536" height="1024" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/b03e00cf-7649-4fd6-ad05-8c5568c6f661" />
-
-
-
 
 <  The tree shows the skills I'm growing >
 <br>
