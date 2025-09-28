@@ -1,4 +1,4 @@
-<img width="2000" height="400" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/a728260e-b0a8-45cc-b928-08464cc1f2e9" />👋 Hi there, I'm Williams K A 
+<img width="2500" height="500" alt="Multiple Roles in Tech World" src="https://github.com/user-attachments/assets/a728260e-b0a8-45cc-b928-08464cc1f2e9" />👋 Hi there, I'm Williams K A 
 
 🌐 I live in four parallel windows of creation.
 
