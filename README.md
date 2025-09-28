@@ -24,7 +24,7 @@ Connect Me Through!
 
 <p align="center">
 <!-- LinkedIn Icon -->
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+<a href="https://www.linkedin.com/in/williams-ka-639b5b1b1/" target="_blank">
 <img src="LINKEDIN_IMAGE_URL_HERE" alt="LinkedIn Profile" width="60" height="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +34,7 @@ Connect Me Through!
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Email Icon -->
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:kawilliamska@gmail.com">
 <img src="EMAIL_IMAGE_URL_HERE" alt="Email Contact" width="60" height="60"/>
 </a>
 </p>
